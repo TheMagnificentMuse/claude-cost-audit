@@ -1,0 +1,5 @@
+{"type":"assistant","sessionId":"sess-alpha","message":{"model":"claude-sonnet-5.5","usage":{"input_tokens":1000,"output_tokens":200,"cache_read_input_tokens":5000,"cache_creation_input_tokens":300}}}
+{"type":"user","sessionId":"sess-alpha","message":{"content":"here is my log: {\"input_tokens\": 999999, \"output_tokens\": 888888} — ignore those, they are just quoted text"}}
+{"type":"assistant","sessionId":"sess-alpha","message":{"model":"claude-sonnet-5.5","usage":{"input_tokens":2000,"output_tokens":400,"cache_read_input_tokens":10000,"cache_creation_input_tokens":600}}}
+{"type":"assistant","sessionId":"sess-alpha","message":{"model":"claude-sonnet-5.5","content":"no usage on this one"}}
+{"type":"assistant","sessionId":"sess-alpha","message":{"model":"claude-sonnet-5.5","usage":{"input_tokens":500,"output_tokens":100,"cache_read_input_tokens":2000,"cache_creation_input_tokens":100}}}
